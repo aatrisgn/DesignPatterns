@@ -1,0 +1,2 @@
+﻿using TGC.DesignPatterns.Singleton;
+

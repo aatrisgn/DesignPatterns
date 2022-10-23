@@ -1,0 +1,12 @@
+D:\Repositories\TGC.SnippetAssister\TGC.DesignPatterns\TGC.DesignPatterns.Singleton\bin\Debug\net6.0\TGC.DesignPatterns.Singleton.deps.json
+D:\Repositories\TGC.SnippetAssister\TGC.DesignPatterns\TGC.DesignPatterns.Singleton\bin\Debug\net6.0\TGC.DesignPatterns.Singleton.dll
+D:\Repositories\TGC.SnippetAssister\TGC.DesignPatterns\TGC.DesignPatterns.Singleton\bin\Debug\net6.0\TGC.DesignPatterns.Singleton.pdb
+D:\Repositories\TGC.SnippetAssister\TGC.DesignPatterns\TGC.DesignPatterns.Singleton\obj\Debug\net6.0\TGC.DesignPatterns.Singleton.csproj.AssemblyReference.cache
+D:\Repositories\TGC.SnippetAssister\TGC.DesignPatterns\TGC.DesignPatterns.Singleton\obj\Debug\net6.0\TGC.DesignPatterns.Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\TGC.SnippetAssister\TGC.DesignPatterns\TGC.DesignPatterns.Singleton\obj\Debug\net6.0\TGC.DesignPatterns.Singleton.AssemblyInfoInputs.cache
+D:\Repositories\TGC.SnippetAssister\TGC.DesignPatterns\TGC.DesignPatterns.Singleton\obj\Debug\net6.0\TGC.DesignPatterns.Singleton.AssemblyInfo.cs
+D:\Repositories\TGC.SnippetAssister\TGC.DesignPatterns\TGC.DesignPatterns.Singleton\obj\Debug\net6.0\TGC.DesignPatterns.Singleton.csproj.CoreCompileInputs.cache
+D:\Repositories\TGC.SnippetAssister\TGC.DesignPatterns\TGC.DesignPatterns.Singleton\obj\Debug\net6.0\TGC.DesignPatterns.Singleton.dll
+D:\Repositories\TGC.SnippetAssister\TGC.DesignPatterns\TGC.DesignPatterns.Singleton\obj\Debug\net6.0\refint\TGC.DesignPatterns.Singleton.dll
+D:\Repositories\TGC.SnippetAssister\TGC.DesignPatterns\TGC.DesignPatterns.Singleton\obj\Debug\net6.0\TGC.DesignPatterns.Singleton.pdb
+D:\Repositories\TGC.SnippetAssister\TGC.DesignPatterns\TGC.DesignPatterns.Singleton\obj\Debug\net6.0\ref\TGC.DesignPatterns.Singleton.dll
